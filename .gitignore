@@ -1,0 +1,6 @@
+Thumbs*
+*.png
+*.pyproj
+*.sln
+space.py
+.vs/*
